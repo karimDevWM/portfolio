@@ -1,0 +1,54 @@
+@import "../scss/variable_overrides";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.quote{
+    text-align: right;
+    font-weight: bold;
+    font-style: italic;
+}
+
+hr{
+    border: solid 1px;
+}
+
+.formation{
+    text-align: center;
+}
+
+.text-color{
+    color: white;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+    font-size: 50px;
+}
+
+img{
+    border-radius: 30px 30px 30px 30px;
+}
+
+.cv-btn{
+    background-color: purple;
+}
+
+.icone{
+    font-size: 50px;
+}
+
+.about-me{
+    font-size: 30px;
+}
+
+.btnn i{
+    float: right;
+}
+
+body{
+    box-shadow: none;
+}
+
+.link{
+    text-decoration: none;
+}
